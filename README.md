@@ -37,8 +37,8 @@ It includes **automated testing with `pytest`** and a **continuous integration w
 
 
 ## Learning Outcomes
-- This project helps you practice:
-- Writing Python programs with automated tests
-- Setting up GitHub Actions for continuous integration
-- Building a simple command-line calculator application
+- Setting up the enivornment for python,pytest.
+- Writing Python programs with automated test cases.
+- Building a simple command-line calculator.
+- Setting up GitHub Actions for continuous integration.
 
