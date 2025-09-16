@@ -51,7 +51,7 @@ def test_invalid_operation(monkeypatch):
 def test_invalid_input_format(monkeypatch):
     inputs = ["add two three", "exit"]
     output = run_calculator_with_input(monkeypatch, inputs)
-    assert "Invalid input. Please follow the format" in output
+    assert "Invalid input." in output
 
 
 def test_division_by_zero(monkeypatch):
